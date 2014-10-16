@@ -8,11 +8,11 @@ Tutorial scripts and templates should have been modified sufficiently to make th
 
 ### Testing
 When everything is set up with Grunt simply type 
-    grunt jasmine
+    `grunt jasmine` 
 to run Jasmine specs in a terminal. 
 
 Type 
-    grunt watch
+    `grunt watch` 
 to continuously cover any saved code changes.
 
 
