@@ -8,11 +8,11 @@ Tutorial scripts and templates shopuld have been modified sufficiently to make t
 
 h4. Testing
 If everything is set up with Grunt simply type 
-{grunr jasmine} to run Jasmine specs in a terminal.
+*grunt jasmine* to run Jasmine specs in a terminal.
 
 
 h4. Inspired by:
 
-# https://code.tutsplus.com/courses/test-driven-development-with-coffeescript-and-jasmine/lessons/an-introduction-to-jasmine
+https://code.tutsplus.com/courses/test-driven-development-with-coffeescript-and-jasmine/lessons/an-introduction-to-jasmine
 
-# http://blog.crisp.se/2013/03/31/danielsundman/test-driving-javascript-its-never-been-easier
+http://blog.crisp.se/2013/03/31/danielsundman/test-driving-javascript-its-never-been-easier
