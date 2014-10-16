@@ -11,6 +11,10 @@ When everything is set up with Grunt simply type
     grunt jasmine
 to run Jasmine specs in a terminal.
 
+Type 
+    grunt watch
+to continuously cover any saved code changes.
+
 
 ### Inspired by:
 
