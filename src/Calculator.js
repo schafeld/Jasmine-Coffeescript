@@ -3,6 +3,6 @@ var Calculator = {
     return x + y;
   },
   sub: function(x,y){
-    return x + y;
+    return x - y;
   }
 };

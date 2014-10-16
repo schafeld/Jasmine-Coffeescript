@@ -1,17 +1,17 @@
 Jasmine-Coffeescript
 ====================
 
-Experiment based on the Tutsplus tutorial on TDD with Jasmine and Coffeescript. First time working with the Github GUI app.
+Experiment based on the Tutsplus tutorial on TDD with Jasmine and Coffeescript. First time working with the Github GUI app. Added Grunt to the mix.
 
-Tutorial scripts and templates shopuld have been modified sufficiently to make them "my own".
+Tutorial scripts and templates should have been modified sufficiently to make them "my own".
 
 
-h4. Testing
+### Testing
 If everything is set up with Grunt simply type 
 *grunt jasmine* to run Jasmine specs in a terminal.
 
 
-h4. Inspired by:
+### Inspired by:
 
 https://code.tutsplus.com/courses/test-driven-development-with-coffeescript-and-jasmine/lessons/an-introduction-to-jasmine
 
